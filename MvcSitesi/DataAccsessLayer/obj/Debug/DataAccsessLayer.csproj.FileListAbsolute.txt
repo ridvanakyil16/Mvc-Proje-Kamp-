@@ -1,0 +1,17 @@
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\bin\Debug\DataAccsessLayer.dll.config
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\bin\Debug\DataAccsessLayer.dll
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\bin\Debug\DataAccsessLayer.pdb
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\bin\Debug\EntityFramework.dll
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\bin\Debug\EntityLayer.dll
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\bin\Debug\EntityFramework.xml
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\obj\Debug\DataAccsessLayer.csproj.AssemblyReference.cache
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\obj\Debug\DataAccsessLayer.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\obj\Debug\DataAccsessLayer.csproj.CopyComplete
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\obj\Debug\DataAccsessLayer.dll
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\obj\Debug\DataAccsessLayer.pdb
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\obj\Debug\DataAccsessLayer.Migrations.mig1.resources
+C:\Users\eren_\Desktop\Mvc Proje\Mvc\MvcSitesi\DataAccsessLayer\obj\Debug\DataAccsessLayer.csproj.GenerateResource.cache
